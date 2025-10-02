@@ -1,3 +1,10 @@
+## 使用方法
+
+### 安裝依賴
+```bash
+pip install -r requirements.txt
+```
+
 ## GitHub 使用方法
 
 ### 修改前
