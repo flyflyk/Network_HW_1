@@ -5,6 +5,12 @@
 pip install -r requirements.txt
 ```
 
+### Data Link Layer 實驗
+以管理員身分執行:
+```bash
+python raw.py "<介面卡名稱>" <目標 MAC 地址>
+```
+
 ## GitHub 使用方法
 
 ### 修改前
